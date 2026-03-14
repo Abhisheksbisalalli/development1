@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.appointment-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  border-radius: 8px;
+  width: 200px;
+}
+
+.appointment-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.date {
+  color: gray;
+}
+
+.star-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
